@@ -45,7 +45,7 @@
     "koa-views": "^6.1.4",
     "koa2-swagger-ui": "^2.11.3",
     "mz": "^2.7.0",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "nodemon": "1.11.0",
     "sequelize": "^4.38.0",
     "sqlite3": "^4.0.1",
